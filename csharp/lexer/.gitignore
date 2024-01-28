@@ -2,3 +2,4 @@
 
 # Ignore the obj directory
 obj/
+bin/
